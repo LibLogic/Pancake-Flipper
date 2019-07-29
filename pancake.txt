@@ -1,0 +1,12 @@
+iterate through string of pancakes looking for upside-downers
+
+if one is found flip it along with the next "flipper width - 1"  pancakes
+mark the index and add to count
+
+start iterating at index + 1 looking for next upside-downer
+
+if we get to the end and there are still flipped pancakes then its impossible
+
+
+
+
